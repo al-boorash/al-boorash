@@ -8,7 +8,7 @@ Tech Stack
 - Infrastructure:System Administration, Network Monitoring, Linux
 
 Current Projects
-- [Automated Market Data Pipeline](LINK_TO_DAY_2_REPO): ETL pipeline fetching real-time API data.
+- [Automated Market Data Pipeline](https://github.com/al-boorash/marketing-lead-analysis): ETL pipeline fetching real-time API data.
 - [Marketing Lead Analysis](LINK_TO_DAY_1_REPO): SQL-based conversion funnel tracking.
 
 Connect with Me
