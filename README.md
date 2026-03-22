@@ -13,4 +13,3 @@ Current Projects
 
 Connect with Me
 - LinkedIn:[linkedin.com/in/mohammed-boorash](https://www.linkedin.com/in/mohammed-boorash-068177249)
-- Portfolio:You're looking at it!
