@@ -1,6 +1,6 @@
 Hi there, I'm boorash! 👋
 
-Data Analyst | Junior Data Engineer.
+Data Analyst | Junior Network Administrator.
 
 Tech Stack
 - Languages:Python (Pandas, NumPy, Requests), SQL (MySQL), JavaScript
